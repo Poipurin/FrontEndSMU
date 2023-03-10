@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+
+<body>
+    <fieldset>
+        <h1>Formulario</h1>
+        <hr>
+        <form action="">
+            <label for="name">Nombre completo:</label><br>
+            <input type="text" id="name" name="name" required><br><br>
+            <label for="email">e-mail:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+            <label for="pass">Contraseña (debe tener al menos 8 caracteres y contener al menos una letra mayúscula, una
+                letra minúscula y un número):</label><br>
+            <input type="password" id="pass" name="pass" required><br><br>
+            <label for="pass2">Confirmar contraseña:</label><br>
+            <input type="password2" id="pass2" name="pass2" required><br><br>
+            <label for="country">País de residencia:</label><br>
+            <select name="country" id="country"><br>
+                <option value="chile">Chile</option>
+                <option value="argentina">Argentina</option>
+                <option value="Colombia">Colombia</option>
+                <option value="Estados Unidos">Estados Unidos</option>
+            </select><br>
+            <br><label for="birthday">Fecha de nacimiento:</label><br>
+            <fieldset>
+                <label for="day">Día:</label>
+                <select name="country" id="country"><br>
+                    <option value="0">Día</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+                <label for="month">Mes:</label>
+                <select name="country" id="country"><br>
+                    <option value="0">Mes</option>
+                    <option value="1">Enero</option>
+                    <option value="2">Febrero</option>
+                    <option value="3">Marzo</option>
+                    <option value="4">Abril</option>
+                </select>
+                <label for="year">Año:</label>
+                <select name="country" id="country"><br>
+                    <option value="0">Año</option>
+                    <option value="1">2000</option>
+                    <option value="2">2001</option>
+                    <option value="3">2002</option>
+                    <option value="4">2003</option>
+                </select>
+            </fieldset><br>
+            <label for="gender">Género</label><br>
+
+            <input type="radio" id="gender" name="gender">
+            <label for="Femenino">Femenino</label><br>
+            <input type="radio" id="gender" name="gender">
+            <label for="Masculino">Masculino</label><br>
+            <input type="radio" id="gender" name="gender">
+            <label for="NoBinario">No Binario</label><br>
+            <input type="radio" id="gender" name="gender">
+            <label for="Otro">Otro</label><br><br>
+            <hr>
+            <input type="checkbox">
+            <label for="Terminos y condiciones">Acepto los términos y condiciones</label>
+        </form>
+    </fieldset>
+</body>
+</html>
