@@ -8,3 +8,13 @@ Repositorio de ejercicios realizados en curso de Fundamentos de Desarrollo Front
 ● 2.3 Tabla de ventas <a href="https://poipurin.github.io/FrontEndSMU-AIEP/2.3Tabla_ventas/index.html">Pudú Tecnológico</a><br>
 ● 2.4 <a href="https://poipurin.github.io/FrontEndSMU-AIEP/2.4Formulario_Registro/index.html">Formulario de registro</a><br>
 ● 2.5 Galería de arte <a href="https://poipurin.github.io/FrontEndSMU-AIEP/2.5Galeria_Arte/index.html">Pudú Impresionista</a><br>
+
+<h2> CSS </h2>
+<h3>Ejercicios</h3>
+● (●´ω｀●)<br>
+<h2> Vanilla JavaScript </h2>
+<h3>Ejercicios</h3>
+● (●´ω｀●)<br>
+<h2> ReactJS </h2>
+<h3>Ejercicios</h3>
+● (●´ω｀●)<br>
