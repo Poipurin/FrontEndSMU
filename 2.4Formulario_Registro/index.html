@@ -21,9 +21,9 @@
                 <label for="pass">Contraseña <i>(debe tener al menos 8 caracteres y contener al menos una letra mayúscula,
                     una
                     letra minúscula y un número)</i>:</label><br>
-                <input type="password" id="pass" name="pass" minlength="8" required><br><br>
+                <input type="password" id="pass" name="pass"  pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required><br><br>
                 <label for="pass2">Confirmar contraseña:</label><br>
-                <input type="password" id="pass2" name="pass2" minlength="8" required><br><br>
+                <input type="password" id="pass2" name="pass2"  pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required><br><br>
                 <label for="country">País de residencia:</label><br>
                 <select name="country" id="country"><br>
                     <option value="chile">Chile</option>
