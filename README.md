@@ -11,7 +11,7 @@ Repositorio de ejercicios realizados en curso de Fundamentos de Desarrollo Front
 
 <h2> CSS </h2>
 <h3>Ejercicios</h3>
-● 3.1 CSS Básico<br>
+● 3.1 CSS Básico Get Flaminged<br>
 ● 3.1 CSS Tabla tiempos de cocción<br>
 <h2> Vanilla JavaScript </h2>
 <h3>Ejercicios</h3>
