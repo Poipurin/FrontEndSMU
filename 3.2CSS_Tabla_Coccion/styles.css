@@ -1,0 +1,91 @@
+*{
+    font-family: Montserrat, sans-serif;
+    color: #666;
+    font-size: small;
+
+}
+body{
+    padding: 0px 35% 0% 25%;
+}
+h1{
+    display: block;
+    font-size: 2.6em;
+    color: #224291;
+    font-weight: 700;
+    line-height: 28px;
+}
+.doble-borde{
+    border: 1px solid #cbcbcb;
+    border-radius: 3px;
+    margin-right: 200px;
+}
+
+#imgDesayuno{
+    display: block;
+    border: #ccd4e4 solid 1px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    padding: 4px 5px 5px 4px;
+    height: 206px;
+    width: 500px;
+}
+b{
+    color: #21408C;
+}
+h2{
+    color: #224BAF;
+    font-size: 20px;
+    margin: 10px 0;
+    font-weight: 400;
+}
+ol li{
+    padding-bottom: 3px;
+    margin-left: -20px;
+}
+ol li::marker{
+    color: #687eb2;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-indent: initial;
+    width: 100%;
+}
+.tabla-titulos{
+    color: #ffffff;
+    font-size: 13px;
+    
+    height: 28px;
+    padding-right: 6px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-right: 1px solid #284fac;
+    background-color: #284fac;
+}
+
+th{
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 15px 6px 15px 10px;
+}
+
+.primera-columna{
+    color: #224BAF;
+    background-color: #c6d0e5;
+    font-size: 15px;
+    border-top: 1px solid #d9dfeb;
+    border-right: 1px solid #d9dfeb;
+    padding: 10px;
+    width: 80px;
+    text-align: left;
+}
+
+td{
+    color: #666;
+    font-size: 11px;
+    padding: 10px, 6px, 10px, 6px;
+    width: 80px;
+    border: 1px solid #d9dfeb;
+    text-align: center;
+}
