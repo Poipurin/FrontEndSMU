@@ -16,6 +16,9 @@ Repositorio de ejercicios realizados en curso de Fundamentos de Desarrollo Front
 <h3>Ejercicios CSS Flexbox </h3>
 ● (●´ω｀●)<br>
 ● (●´ω｀●)<br>
+<h3>Ejercicios CSS Grid </h3>
+● (●´ω｀●)<br>
+● (●´ω｀●)<br>
 <h2> Vanilla JavaScript </h2>
 <h3>Ejercicios</h3>
 ● (●´ω｀●)<br>
