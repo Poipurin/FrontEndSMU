@@ -10,9 +10,15 @@ Repositorio de ejercicios realizados en curso de Fundamentos de Desarrollo Front
 ● 2.5 Galería de arte <a href="https://poipurin.github.io/FrontEndSMU-AIEP/2.5Galeria_Arte/index.html">Pudú Impresionista</a><br>
 
 <h2> CSS </h2>
-<h3>Ejercicios</h3>
+<h3>Ejercicios CSS3 </h3>
 ● 3.1 CSS Básico <a href="https://poipurin.github.io/FrontEndSMU-AIEP/3.1CSS_basico/index.html">Get Flaminged</a><br>
 ● 3.1 <a href="https://poipurin.github.io/FrontEndSMU-AIEP/3.2CSS_Tabla_Coccion/index.html"> CSS Tabla tiempos de cocción </a><br>
+<h3>Ejercicios CSS Flexbox </h3>
+● (●´ω｀●)<br>
+● (●´ω｀●)<br>
+<h3>Ejercicios CSS Grid </h3>
+● (●´ω｀●)<br>
+● (●´ω｀●)<br>
 <h2> Vanilla JavaScript </h2>
 <h3>Ejercicios</h3>
 ● (●´ω｀●)<br>
