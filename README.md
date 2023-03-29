@@ -17,8 +17,8 @@ Repositorio de ejercicios realizados en curso de Fundamentos de Desarrollo Front
 ● (●´ω｀●)<br>
 ● (●´ω｀●)<br>
 <h3>Ejercicios CSS Grid </h3>
-● (●´ω｀●)<br>
-● (●´ω｀●)<br>
+● 7.1 Layouts <a href="https://poipurin.github.io/FrontEndSMU-AIEP/7.1Layouts_con_CSS/index.html">CSS Grid</a><br>
+
 <h2> Vanilla JavaScript </h2>
 <h3>Ejercicios</h3>
 ● (●´ω｀●)<br>
