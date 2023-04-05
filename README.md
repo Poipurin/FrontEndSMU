@@ -21,6 +21,7 @@ Repositorio de ejercicios realizados en curso de Fundamentos de Desarrollo Front
 
 <h2> Vanilla JavaScript </h2>
 <h3>Ejercicios</h3>
+● 9.1 Formulario de registro con validaciones<br>
 ● (●´ω｀●)<br>
 <h2> ReactJS </h2>
 <h3>Ejercicios</h3>
