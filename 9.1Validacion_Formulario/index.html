@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +9,56 @@
     <script src="scripts.js"></script>
     <title>Formulario</title>
 </head>
+
 <body>
-    
+    <main>
+        <fieldset>
+            <h1>Formulario de Registro</h1>
+            <hr>
+            <form action="index.html" method="get">
+                <label for="name">Nombre:</label><br>
+                <input type="text" id="name" name="name" required><br><br>
+                <label for="name">Apellidos:</label><br>
+                <input type="text" id="lastname" name="lastname" required><br><br>
+                <label for="email">e-mail:</label><br>
+                <input type="email" id="email" name="email" required><br><br>
+                <label for="pass">Contraseña <i>(debe tener al menos 8 caracteres y contener al menos una letra
+                        mayúscula,
+                        una
+                        letra minúscula y un número)</i>:</label><br>
+                <input type="password" id="pass" name="pass" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+                    required><br><br>
+                <label for="pass2">Confirmar contraseña:</label><br>
+                <input type="password" id="pass2" name="pass2" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+                    required><br><br>
+                <label for="country">País de residencia:</label><br>
+                <select name="country" id="country"><br>
+                    <option value="chile">Chile</option>
+                    <option value="argentina">Argentina</option>
+                    <option value="colombia">Colombia</option>
+                    <option value="estadosUnidos">Estados Unidos</option>
+                </select><br>
+                <br><label for="bd2">Fecha de nacimiento:</label><br>
+                <input type="date" id="bd2" name="bd2">
+                <br><br>
+                <label for="gender">Género</label><br>
+                <input type="radio" id="gender" name="gender">
+                <label for="femenino">Femenino</label><br>
+                <input type="radio" id="gender" name="gender">
+                <label for="masculino">Masculino</label><br>
+                <input type="radio" id="gender" name="gender">
+                <label for="noBinario">No Binario</label><br>
+                <input type="radio" id="gender" name="gender">
+                <label for="otro">Otro</label><br><br>
+                <hr>
+                <input type="checkbox">
+                <label for="conditions">Acepto los términos y condiciones</label><br>
+                <br>
+                <button type="submit" value="submit">Enviar</button>
+            </form>
+        </fieldset>
+    </main>
+
 </body>
+
 </html>
