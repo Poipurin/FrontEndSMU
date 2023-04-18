@@ -22,9 +22,12 @@
             <hr>
             <form action="index.html" method="get">
                 <label for="name">Nombre:</label><br>
-                <input type="text" id="name" name="name" required><br><br>
+                <input type="text" id="name" name="name" required><br>
+                <span id="invalidName"></span>
+                <br>
                 <label for="name">Apellidos:</label><br>
-                <input type="text" id="lastname" name="lastname" required><br><br>
+                <input type="text" id="lastname" name="lastname" required><br>
+                <span id="invalidLastName"></span><br>
                 <label for="email">e-mail:</label><br>
                 <input type="email" id="email" name="email" required><br><br>
                 <label for="pass">Contraseña <i>(debe tener al menos 8 caracteres y contener al menos una letra

@@ -3,4 +3,25 @@ body{
     padding: 0;
     font-family: Poppins, sans-serif;
     color: #666;
+    display: flex;
+}
+input{
+    border-radius: 2rem;
+    border: 1px solid;
+    border-color: #666;
+}
+
+button{
+    color: #fff;
+    background-color: blueviolet;
+    font-family: Poppins;
+    border-radius: 1rem;
+    border: none;
+    width: 6rem;
+    padding: 6px;
+
+}
+button:hover{
+    color: #fff;
+    background-color:darkorchid;
 }
