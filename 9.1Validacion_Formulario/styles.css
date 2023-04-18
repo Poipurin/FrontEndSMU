@@ -29,7 +29,12 @@ input {
     padding: 10px;
 }
 
-.btn{
+input:focus {
+    outline: 0;
+    border-color: #777;
+}
+
+.btn {
     margin: 2em;
     justify-content: center;
 }
@@ -42,6 +47,7 @@ button {
     border: none;
     width: 100%;
     padding: 6px;
+    cursor: pointer;
 }
 
 button:hover {
@@ -62,7 +68,6 @@ button:hover {
     display: inline-block;
     margin-bottom: 5px;
 }
-
 
 .form-control.success input {
     border-color: #2ecc71;

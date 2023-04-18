@@ -21,7 +21,7 @@ function checkInputs() {
     const passValue = pass.value.trim();
     const passConfValue = passConf.value.trim();
 
-    if (userNameValue === " ") {
+    if (userNameValue === '') {
         setErrorFor(userName, "El campo no puede estar vacío");
     } else {
         setSuccessFor(userName);
